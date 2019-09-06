@@ -17,3 +17,6 @@ Moreover, Kaula identifies that there are characteristic differences among AI an
 Figure 2. Two Axes: Blockchain propellers to extend solution, while AI to deepen it.
 
 An example is that data from IoT can be stored in safe and non-tampering to be used by new stakeholders with their business models. But Blockchain does not say anything, if the input data is true or not. Some data checking by AI which also sees other environmental data can add a value that the input data is true. 
+
+
+http://kaula.jp/

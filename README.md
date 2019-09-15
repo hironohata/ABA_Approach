@@ -1,3 +1,6 @@
+”ABC strategy” below described  was upgraded to "ABA approach".
+
+------------
 # ABC Strategy - Applying Blockchain to IoT
 
 
